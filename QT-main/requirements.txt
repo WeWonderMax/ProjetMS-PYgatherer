@@ -1,0 +1,64 @@
+# Core Dependencies - Essential for the application
+PySide6==6.5.2
+requests==2.31.0
+python-dotenv==1.0.0
+cachetools==5.3.1
+reportlab==4.0.4
+Pillow==10.0.0
+folium==0.14.0
+
+# Networking
+urllib3==2.0.4
+chardet==5.2.0
+idna==3.4
+certifi==2023.7.22
+
+# Data Processing
+ipaddress==1.0.23
+python-dateutil==2.8.2
+six==1.16.0
+
+# Visualization Dependencies
+branca==0.6.0
+Jinja2==3.1.2
+MarkupSafe==2.1.3
+
+# Development Tools
+pytest==7.4.0
+pytest-qt==4.2.0
+pytest-cov==4.1.0
+coverage==7.3.0
+
+# Code Quality
+black==23.7.0
+pylint==2.17.5
+flake8==6.1.0
+mypy==1.4.1
+autopep8==2.0.2
+
+# Documentation
+Sphinx==6.2.1
+sphinx-rtd-theme==1.2.2
+docutils==0.19
+alabaster==0.7.13
+Pygments==2.16.1
+snowballstemmer==2.2.0
+
+# Security
+cryptography==41.0.3
+pyOpenSSL==23.2.0
+cffi==1.15.1
+pycparser==2.21
+
+# Utilities
+colorama==0.4.6
+tqdm==4.65.0
+packaging==23.1
+typing-extensions==4.7.1
+
+PyQt6>=6.6.0
+PyQt6-WebEngine>=6.6.0
+folium==0.15.1
+requests==2.31.0
+python-dotenv==1.0.1
+
