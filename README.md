@@ -35,7 +35,7 @@ Note: Des informations fictives ont été enregistrées dans l'application, donc
 
 L'application a déjà été compilée pour Windows, pas besoin d'installer python sur la machine. 
 
-Chemin de l'exécutable: compile/ioc_analysis.exe
+L'exécutable peut être téléchargé dans la section release du projet.
 
 ### Linux
 
