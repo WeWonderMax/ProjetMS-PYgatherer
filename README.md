@@ -22,7 +22,7 @@ Il permets de prendre en entrée :
 
 #### Ajout les clés API
 
-Pour utiliser VirusTotal et Ipstack, il faudra créer un compte sur chaque site, et récupérer la clé API de chauqe outil.
+Pour utiliser VirusTotal et Ipstack, il faudra créer un compte sur chaque site, et récupérer la clé API de chaque outil.
 
 Ajouter les clés dans des variables d'environements avec cmd:
 
@@ -64,7 +64,7 @@ Installer les dépendances
 
 #### Ajout les clés API
 
-Pour utiliser VirusTotal et Ipstack, il faudra créer un compte sur chaque site, et récupérer la clé API de chauqe outil.
+Pour utiliser VirusTotal et Ipstack, il faudra créer un compte sur chaque site, et récupérer la clé API de chaque outil.
 
 Ajouter les clés dans des variables d'environements:
 
@@ -82,7 +82,7 @@ Exécuter l'application avec le fichier main.py:
 
 ### Page d'accueil 
 
-Une fois l'application lancée, la page d'ccueil est la suivante :
+Une fois l'application lancée, la page d'accueil est la suivante :
 ![Accueil de l'application](image/accueil.png)
 
 ### Recherche sur une IP
